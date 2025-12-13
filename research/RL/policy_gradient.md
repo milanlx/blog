@@ -18,3 +18,35 @@ $$
 \end{aligned}
 \end{equation*}
 $$
+
+
+```python
+import torch
+import torch.nn.functional as F
+import gymnasium as gym
+
+
+class DiscreteEnv:
+    def __init__(self, env_name, env_num): 
+        self.envs = [gym.make(env_name) for i in range(env_num)]
+        self.action_space = self.envs[0].action_space.n
+        self.observation_space = self.envs[0].observation_space.shape[0]
+    
+    def rollout(self, policy, mode): 
+        trajectories = []
+        for env in self.envs:
+            states, actions, rewards = [], [], []
+            observation, info = env.reset()
+            terminated, truncated = False, False
+            while not (terminated or truncated):
+                states.append(observation)
+
+                action = policy.get_action(torch.tensor(observation), mode)
+                observation, reward, terminated, truncated, info = env.step(action)
+                actions.append(action)
+                rewards.append(reward)
+            reward_to_go = convert_reward_to_go(rewards)
+            trajectories.append([states, actions, reward_to_go])
+        
+        return trajectories
+```
