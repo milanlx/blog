@@ -7,7 +7,7 @@ $$
 $$
 \begin{equation*}
 \begin{aligned}
-\nabla_{\theta} \: J(\pi_{\theta}) 
+\nabla_{\theta} J(\pi_{\theta}) 
     & = \nabla_{\theta} \: \int_{\tau} P(\tau | \pi_{\theta}) \: R(\tau) \\
     & = \int_{\tau} \nabla_{\theta} \: P(\tau | \pi_{\theta}) \: R(\tau) \\
     & = \int_{\tau} P(\tau | \pi_{\theta}) \: \frac{\nabla_{\theta} P(\tau | \pi_{\theta})}{P(\tau | \pi_{\theta})} \: R(\tau) \\
