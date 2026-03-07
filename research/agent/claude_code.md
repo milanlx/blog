@@ -13,3 +13,5 @@ thumbnail:
 --- 
 
 Main content.
+
+bare metal
