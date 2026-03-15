@@ -15,4 +15,4 @@
 3. [The RL Environment Business](https://x.com/elliotarledge/status/2032753593535574433)
    - The reality of building a headless Minecraft server that runs fast enough for millions of RL rollouts, with a verifier that correctly evaluates whether the model actually achieved its objective, is a massive engineering challenge.
    - how the business probably works today: the lab identifies capability gaps -> they spec out environment requirements -> a contracting company builds the environments -> Code review and acceptance -> integration into training
-
+   - containerized execution environments (think: sandboxed Docker containers where submitted environments run safely) that are commodity infrastructure...
