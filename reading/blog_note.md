@@ -10,4 +10,9 @@
   - putting the agent in a position to check its own work; have one agent do the work, and then a separate agent check the work; spell out in great detail how I’d like it to go about a task (product to prompt?)
   - I vibe-coded an app that generates summaries of all the (many!) newsletters and podcasts I follow.
   - Agents are going to progress rapidly, by any metric: usage, capabilities, impact. AI’s impact is the product of eight separate factors; pre-training, post-training, inference compute scaling, agent scaffolding, app design, user aptitude, workflow refactoring, and adoption.
-  - If the current wave of agent adoption continues, API providers may have to significantly ration usage. 
+  - If the current wave of agent adoption continues, API providers may have to significantly ration usage.
+
+3. [The RL Environment Business](https://x.com/elliotarledge/status/2032753593535574433)
+   - The reality of building a headless Minecraft server that runs fast enough for millions of RL rollouts, with a verifier that correctly evaluates whether the model actually achieved its objective, is a massive engineering challenge.
+   - how the business probably works today: the lab identifies capability gaps -> they spec out environment requirements -> a contracting company builds the environments -> Code review and acceptance -> integration into training
+
