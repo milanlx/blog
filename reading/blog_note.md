@@ -9,4 +9,5 @@
   - if you just naively hand pieces of work to an agent, your productivity can actually go down. It’s easy to fall into a cycle where an agent produces something for you, you provide feedback, the agent makes revisions, you check it again, ad infinitum.
   - putting the agent in a position to check its own work; have one agent do the work, and then a separate agent check the work; spell out in great detail how I’d like it to go about a task (product to prompt?)
   - I vibe-coded an app that generates summaries of all the (many!) newsletters and podcasts I follow.
-  - Agents are going to progress rapidly, by any metric: usage, capabilities, impact. AI’s impact is the product of eight separate factors; pre-training, post-training, inference compute scaling, agent scaffolding, app design, user aptitude, workflow refactoring, and adoption. 
+  - Agents are going to progress rapidly, by any metric: usage, capabilities, impact. AI’s impact is the product of eight separate factors; pre-training, post-training, inference compute scaling, agent scaffolding, app design, user aptitude, workflow refactoring, and adoption.
+  - If the current wave of agent adoption continues, API providers may have to significantly ration usage. 
