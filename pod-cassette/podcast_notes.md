@@ -20,5 +20,8 @@ WhynotTV :: 翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授
 - 190:09 以前是水的教育，往脑子里灌；未来是火的教育，找那根小火柴
 - idea: personalized agent; new format of ads (ads provider talks to agent, targeted)
 
+张小珺 商业访谈录：133 对谢赛宁的7小时马拉松访谈
+- 工欲善其事，必先利其器；金刚经
+
 
 
