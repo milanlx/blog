@@ -16,3 +16,9 @@
    - The reality of building a headless Minecraft server that runs fast enough for millions of RL rollouts, with a verifier that correctly evaluates whether the model actually achieved its objective, is a massive engineering challenge.
    - how the business probably works today: the lab identifies capability gaps -> they spec out environment requirements -> a contracting company builds the environments -> Code review and acceptance -> integration into training
    - containerized execution environments (think: sandboxed Docker containers where submitted environments run safely) that are commodity infrastructure...
+
+4. [How To Reason About A Messy Future](https://x.com/systematicls/status/2030986094368432326)
+  - When the future is genuinely noisy, when the rate of change is fast enough that most analogies break down, people tend to do one of two things. They either wait for certainty before acting, or they pattern-match to the past ("this is like the internet boom") and act on the wrong model. Both are mistakes.
+  - It is worth reasoning from first principles under incomplete information. You don't need to know exactly how something plays out. You just need to be directionally correct, and you need to structure your bets so that being early and wrong is survivable, while being early and right is disproportionately rewarding.
+  - By the time the signal is obvious, the trade is crowded. In markets, you pay for early conviction with uncertainty. In careers and startups, the currency is the same.
+  - ... action creates information. Moving towards action is discovery.
