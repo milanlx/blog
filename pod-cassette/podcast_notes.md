@@ -23,5 +23,13 @@ WhynotTV :: 翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授
 张小珺 商业访谈录：133 对谢赛宁的7小时马拉松访谈
 - 工欲善其事，必先利其器；金刚经
 
+No Priors :: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI
+- skill issue: compute-bound -> human capability-bound
+- openclaw: memory, personality, whatsapp interface
+- agent-first tool / API, instead of software / app
+- auto-research: no human-in-the-loop, queue of ideas -> workers
+- caveats in LLM: uneven capability, good at verifiable task, not good at soft ones
+- idea: crowdsourcing to get data for agent, like poly / stock market, tasked with price
+
 
 
