@@ -30,7 +30,7 @@ No Priors :: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of 
 - auto-research: no human-in-the-loop, queue of ideas -> workers
 - caveats in LLM: uneven capability, good at verifiable task, not good at soft ones
 - idea: crowdsourcing to get data for agent, like poly / stock market, tasked with price
-- commnication: human -> {code + doc + video} -> human  => code -> agent -> human
+- commnication: human code -> {doc + video} -> human  => human code -> agent -> human; the right intermediate / latent
 
 
 
