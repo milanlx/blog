@@ -22,3 +22,8 @@
   - It is worth reasoning from first principles under incomplete information. You don't need to know exactly how something plays out. You just need to be directionally correct, and you need to structure your bets so that being early and wrong is survivable, while being early and right is disproportionately rewarding.
   - By the time the signal is obvious, the trade is crowded. In markets, you pay for early conviction with uncertainty. In careers and startups, the currency is the same.
   - ... action creates information. Moving towards action is discovery.
+
+5. [A Path Towards Autonomous Machine Intelligence](https://openreview.net/forum?id=BZ5a1r-kVsf)
+  - world model, hierarchies of models with multiple levels of abstraction, self-supervised
+  - module: configurator, perception, world model, cost, short-term memory, actor
+  - perception-action loop: system 1 (reactive); system 2 (reasoning + planing with world model) ~ MPC
