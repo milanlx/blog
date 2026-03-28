@@ -27,3 +27,12 @@
   - world model, hierarchies of models with multiple levels of abstraction, self-supervised
   - module: configurator, perception, world model, cost, short-term memory, actor
   - perception-action loop: system 1 (reactive); system 2 (reasoning + planing with world model) ~ MPC
+
+6. [2030年大预言：会用AI的人进入新贵族，不会用的人变成数字农奴](https://x.com/dashen_wang/status/2037360754274488659?s=43&t=HWl3cSGVNm08NsHl5SGiEA)
+  - 新技术总是先有现象，再造词语。词语跟不上的地方，就是变化正在发生的地方。
+  - 会"编排"AI完成复杂工程任务的人，2027年会变得极度稀缺。他们懂得拆解任务、设计工作流、评估AI输出质量。
+  - 意图层（intent layer）：现在你用软件的方式是：打开APP，找功能，点击，填表，提交。这个交互模式统治了三十年。意图层是指一个新的范式：你只需要表达你想要什么，有一个系统帮你路由到正确的工具并执行。
+  - 当越来越多的搜索和决策被AI代劳，传统广告逻辑崩塌。
+  - 人类最稀缺的，将不再是执行力，而是想法的质量、判断的准确度，以及一个至今仍被严重低估的能力：知道什么时候不该信任AI的结论。
+  - 新职业：AI编排师；上下文架构师；Skill开发者
+  - 自己的知识库：当所有人都用同一个基础模型，你积累的私有数据和结构化经验，是让你的AI比别人的AI更聪明的唯一方法。
