@@ -32,5 +32,13 @@ No Priors :: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of 
 - idea: crowdsourcing to get data for agent, like poly / stock market, tasked with price
 - commnication: human code -> {doc + video} -> human  => human code -> agent -> human; the right intermediate / latent
 
+课代表立正 ：：清华教授：应试教育在AI面前全军覆没，我们应该如何重新学习？
+- Hinton: 第一性原理，机器智能～人类智能，脑科学
+- 智能（模型）出现的条件：规模大、复杂度高（树突、动力学t）
+- transformer 局限性：二维（没有t）；只有feed-forward，没有（long-range）feedback连接 ~ predictive coding / 直觉；只有串行（next token）没有并行处理 / 生成
+- 小（旧）脑和大（新）脑：小脑（～系统一）是算力中心，神经元是大脑（～系统二）7倍，神经元密集连接，～ world model，复杂任务；推理、算术、理性是简单任务，大脑解决
+- transformer source：Hinton 1986年的paper，fast weight (Using fast weights to deblur old memories)；本质是找万物之间的联系，也就是压缩
+- 模型优雅的观测：criticality（临界态、可能性）、manifold光滑性
+
 
 
